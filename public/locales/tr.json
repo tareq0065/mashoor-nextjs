@@ -1,0 +1,18 @@
+{
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir şeyler yanlış gitti",
+    "retry": "Tekrar dene"
+  },
+  "navigation": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "about": "Hakkımızda",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Ürün Sayfamıza Hoş Geldiniz",
+    "subtitle": "Hayatınızı değiştirecek harika ürünleri keşfedin",
+    "cta": "Hemen Alışveriş Yap"
+  }
+}

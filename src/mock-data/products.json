@@ -1,0 +1,118 @@
+{
+  "featured": [
+    {
+      "id": "prod-101",
+      "title": {
+        "en": "Luxury Leather Backpack",
+        "tr": "Lüks Deri Sırt Çantası"
+      },
+      "description": {
+        "en": "Elegant leather backpack with multiple compartments, anti-theft zipper, and padded laptop sleeve. Perfect for travel or daily use.",
+        "tr": "Birden fazla bölmeli, hırsızlık önleyici fermuarlı ve dizüstü bilgisayar korumalı şık deri sırt çantası. Seyahat veya günlük kullanım için mükemmel."
+      },
+      "price": 139.99,
+      "originalPrice": 179.99,
+      "currency": "USD",
+      "image": "/assets/p1.webp",
+      "images": ["/assets/p1.webp", "/assets/p2.webp", "/assets/p3.webp"],
+      "category": {
+        "en": "Fashion",
+        "tr": "Moda"
+      },
+      "features": [
+        {
+          "en": "Genuine Leather",
+          "tr": "Gerçek Deri"
+        },
+        {
+          "en": "Anti-Theft Zipper",
+          "tr": "Hırsızlık Önleyici Fermuar"
+        },
+        {
+          "en": "Fits 15'' Laptop",
+          "tr": "15'' Dizüstü Uyumlu"
+        }
+      ],
+      "rating": 4.9,
+      "reviewCount": 312,
+      "inStock": true,
+      "isFeatured": true
+    },
+    {
+      "id": "prod-102",
+      "title": {
+        "en": "Stainless Steel Blender",
+        "tr": "Paslanmaz Çelik Blender"
+      },
+      "description": {
+        "en": "Powerful 800W blender for smoothies, soups, and sauces. Easy to clean, durable, and comes with a 1.5L glass jar.",
+        "tr": "Smoothie, çorba ve soslar için güçlü 800W blender. Kolay temizlenir, dayanıklıdır ve 1,5L cam hazneye sahiptir."
+      },
+      "price": 89.9,
+      "originalPrice": 119.9,
+      "currency": "USD",
+      "image": "/assets/p2.webp",
+      "images": ["/assets/p1.webp", "/assets/p2.webp", "/assets/p3.webp"],
+      "category": {
+        "en": "Home Appliances",
+        "tr": "Ev Aletleri"
+      },
+      "features": [
+        {
+          "en": "800W Motor",
+          "tr": "800W Motor"
+        },
+        {
+          "en": "1.5L Glass Jar",
+          "tr": "1,5L Cam Hazne"
+        },
+        {
+          "en": "Dishwasher Safe",
+          "tr": "Bulaşık Makinesinde Yıkanabilir"
+        }
+      ],
+      "rating": 4.7,
+      "reviewCount": 205,
+      "inStock": true,
+      "isFeatured": true
+    },
+    {
+      "id": "prod-103",
+      "title": {
+        "en": "Ergonomic Office Chair",
+        "tr": "Ergonomik Ofis Sandalyesi"
+      },
+      "description": {
+        "en": "Adjustable ergonomic chair with lumbar support, breathable mesh back, and 360° swivel wheels for maximum comfort.",
+        "tr": "Bel destekli, nefes alabilen file sırtlı ve 360° döner tekerlekli ayarlanabilir ergonomik sandalye ile maksimum konfor."
+      },
+      "price": 179.5,
+      "originalPrice": 229.0,
+      "currency": "USD",
+      "image": "/assets/p3.webp",
+      "images": ["/assets/p1.webp", "/assets/p2.webp", "/assets/p3.webp"],
+      "category": {
+        "en": "Office",
+        "tr": "Ofis"
+      },
+      "features": [
+        {
+          "en": "Lumbar Support",
+          "tr": "Bel Desteği"
+        },
+        {
+          "en": "Adjustable Height",
+          "tr": "Ayarlanabilir Yükseklik"
+        },
+        {
+          "en": "Mesh Back",
+          "tr": "File Sırt"
+        }
+      ],
+      "rating": 4.5,
+      "reviewCount": 173,
+      "inStock": true,
+      "isFeatured": true
+    }
+  ]
+}

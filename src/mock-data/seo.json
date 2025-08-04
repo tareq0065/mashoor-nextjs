@@ -1,0 +1,53 @@
+{
+  "default": {
+    "en": {
+      "title": "Mashoor - International Online Shopping",
+      "description": "Shop the latest in electronics, fashion, home essentials, beauty, and more. Enjoy worldwide shipping, easy returns, and 24/7 customer support at Mashoor.",
+      "keywords": "online shopping, international store, electronics, fashion, home, beauty, worldwide shipping",
+      "openGraph": {
+        "title": "Mashoor - International Online Shopping",
+        "description": "Discover top brands and exclusive deals on electronics, fashion, and more with fast global delivery.",
+        "image": "/images/og-image-en.jpg",
+        "url": "https://Mashoor.com"
+      },
+      "twitter": {
+        "title": "Mashoor - International Online Shopping",
+        "description": "Explore the world of shopping online with fast global delivery and trusted support.",
+        "image": "/images/twitter-image-en.jpg"
+      }
+    },
+    "tr": {
+      "title": "Mashoor - Uluslararası Online Alışveriş",
+      "description": "Elektronikten modaya, ev ürünlerinden kozmetiğe en yeni ürünleri Mashoor’te keşfedin. Dünya çapında hızlı teslimat, kolay iade ve 7/24 müşteri desteği ile alışverişin tadını çıkarın.",
+      "keywords": "online alışveriş, uluslararası mağaza, elektronik, moda, ev, kozmetik, dünya çapında teslimat",
+      "openGraph": {
+        "title": "Mashoor - Uluslararası Online Alışveriş",
+        "description": "Elektronik, moda ve daha fazlasında en iyi markaları ve fırsatları hızlı global teslimat ile keşfedin.",
+        "image": "/images/og-image-tr.jpg",
+        "url": "https://Mashoor.com/tr"
+      },
+      "twitter": {
+        "title": "Mashoor - Uluslararası Online Alışveriş",
+        "description": "Dünya çapında hızlı teslimat ve güvenilir destek ile online alışverişin keyfini çıkarın.",
+        "image": "/images/twitter-image-tr.jpg"
+      }
+    }
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Mashoor",
+    "url": "https://Mashoor.com",
+    "logo": "https://Mashoor.com/logo.png",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+1-555-123-4567",
+      "contactType": "customer service"
+    },
+    "sameAs": [
+      "https://facebook.com/Mashoor",
+      "https://twitter.com/Mashoor",
+      "https://instagram.com/Mashoor"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again"
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Welcome to Our Product Landing",
+    "subtitle": "Discover amazing products that will change your life",
+    "cta": "Shop Now"
+  }
+}

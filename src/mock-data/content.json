@@ -1,0 +1,35 @@
+{
+  "about": {
+    "title": {
+      "en": "Who We Are",
+      "tr": "Biz Kimiz"
+    },
+    "description": {
+      "en": "Our mission is to design thoughtful products that bring the best of technology into everyday life for everyone.",
+      "tr": "Amacımız, teknolojinin en iyisini herkesin günlük hayatına taşıyan yenilikçi ürünler tasarlamaktır."
+    },
+    "stats": [
+      {
+        "number": "50K+",
+        "label": {
+          "en": "Satisfied Customers",
+          "tr": "Memnun Müşteri"
+        }
+      },
+      {
+        "number": "500+",
+        "label": {
+          "en": "Unique Products",
+          "tr": "Benzersiz Ürün"
+        }
+      },
+      {
+        "number": "4.8",
+        "label": {
+          "en": "Customer Rating",
+          "tr": "Müşteri Puanı"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": {
+    "en": "Experience Tomorrow’s Technology Today",
+    "tr": "Yarının Teknolojisini Bugün Yaşayın"
+  },
+  "subtitle": {
+    "en": "Discover high-quality, innovative products designed to elevate your everyday living.",
+    "tr": "Günlük yaşamınızı ileriye taşıyan, yenilikçi ve kaliteli ürünlerle tanışın."
+  },
+  "cta": {
+    "primary": {
+      "text": {
+        "en": "Start Shopping",
+        "tr": "Alışverişe Başla"
+      },
+      "href": "#products"
+    },
+    "secondary": {
+      "text": {
+        "en": "See Why We’re Different",
+        "tr": "Neden Farklıyız Gör"
+      },
+      "href": "#about"
+    }
+  },
+  "backgroundImage": "/images/hero-bg.jpg",
+  "videoUrl": "/videos/hero-video.mp4",
+  "features": [
+    {
+      "icon": "⚡",
+      "text": {
+        "en": "Lightning-Fast Delivery",
+        "tr": "Işık Hızında Teslimat"
+      }
+    },
+    {
+      "icon": "🛡️",
+      "text": {
+        "en": "Extended 2-Year Warranty",
+        "tr": "2 Yıl Ekstra Garanti"
+      }
+    },
+    {
+      "icon": "🎯",
+      "text": {
+        "en": "Top-Tier Craftsmanship",
+        "tr": "Üst Düzey İşçilik"
+      }
+    }
+  ]
+}
