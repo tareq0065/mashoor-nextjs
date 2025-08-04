@@ -1,6 +1,6 @@
 # Next.js Product Landing Page
 
-A modern, production-ready product landing page built with **Next.js 15**, featuring multi-language support, Redux Toolkit state management, dark mode, and comprehensive SEO optimization.
+Experience a cutting-edge product landing page designed with Next.js 15, Shadcn, and TailwindCSS—complete with multi-language capabilities, Redux Toolkit state management, dark mode, and enhanced SEO optimization.
 
 ## 🚀 Features
 
